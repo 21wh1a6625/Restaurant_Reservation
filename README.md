@@ -23,7 +23,7 @@ The directory contains web sub directories and a sub directory for hosting model
 
 6.food1.csv contains cleaned data.
 
-#**Dependencies**
+# **Dependencies**
 
 The following dependencies can be found in requirements.txt:
 
@@ -39,7 +39,7 @@ scikit-learn
 
 gunicorn
 
-#**Explanation**
+# **Explanation**
 
 This code appears to be a Python script for a Flask web application that provides restaurant recommendations based on user input. Let's break down the code step by step:
 
